@@ -7,7 +7,7 @@ https://github.com/jyy4014-git/trading_web/assets/134044918/965dd983-a1ed-4bf7-b
 ## 환경세팅
 - Java 11 version
 - Spring Boot
-- Java Script
+- Ajax
 - Maria DB
 - BootStrap
 
